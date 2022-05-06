@@ -1,0 +1,102 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+    margin: 100px;
+    background-color: rgba(0, 0, 0, 0.425);
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+
+.container{
+    background-color: rgba(0, 0, 0, 0.438);
+    padding-top: 70px;
+    padding-right: 70px;
+    padding-bottom: 70px;
+    padding-left: 70px;
+}
+
+
+
+
+#logo{
+    width: 200px
+}
+
+
+.titolo1 {
+    color: rgb(10, 243, 10)
+}
+
+.opzioni {
+    background-color: rgb(12, 238, 12);
+    padding: 1%;
+    }
+
+header{
+    text-align: center;
+}
+
+.prima_scelta{
+
+    color: white;
+    display: inline-block;
+    margin-bottom: 5px;
+    
+}
+
+.stato_carica{
+     
+     color: white;
+     font-size: small;
+
+
+     
+}
+
+#carica1{
+    width: 300px;
+    height: 30px;
+    background-color: rgb(238, 169, 109);
+    font-size: small;
+    border-radius: 5px;
+    
+}
+
+.seconda_scelta{
+    display: inline-block;
+    color: white;
+    margin-bottom: 5px;
+    
+}
+
+
+#carica2{
+    width: 500px;
+    height: 30px;
+    background-color: green;
+    border-radius: 5px;
+    
+}
+
+.terza_scelta{
+    display: inline-block;
+    color: white;
+    margin-bottom: 5px;
+    
+}
+
+#carica3{
+    width: 100px;
+    height: 30px;
+    background-color: red;
+    border-radius: 5px;
+    
+}
+
+.testo{
+    color: white;
+    
+}
+
+
